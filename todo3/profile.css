@@ -1,0 +1,12 @@
+.header{
+    background-color: #50C2C9;
+}
+.gambar__header img{
+    margin: 0;
+    padding: 0;
+    margin-left: 50px;
+}
+
+.gambar__header h5{
+    margin-top: 25px;
+}

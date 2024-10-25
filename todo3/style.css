@@ -1,0 +1,17 @@
+body{
+    background-color: #F0F4F3;
+}
+
+.gambar__header img{
+  margin-left: 100px;
+    margin-top: 50px;
+}
+
+.button__header button.btn{
+    width: 450px;
+}
+
+.login_header img{
+    margin-left: 100px;
+    height: 200px;
+}
